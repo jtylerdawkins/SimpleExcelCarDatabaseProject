@@ -13,3 +13,8 @@ Excel features used in this project:<br>
 •	CONCATENATE function to form new Car IDs.<br>
 •	Pivot Table for Driver data and their respective Mileage.<br>
 •	Scatter chart with trendline to display a car’s Mileage in relation to its Age.<br>
+
+Images
+![alt text](https://github.com/jtylerdawkins/SimpleExcelCarDatabaseProject/blob/main/CarDatabasePic2.PNG?raw=true)
+<br>
+![alt text](https://github.com/jtylerdawkins/SimpleExcelCarDatabaseProject/blob/main/CarDatabasePic2PivotTableBarChart.PNG?raw=true)
